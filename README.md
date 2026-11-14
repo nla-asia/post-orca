@@ -1,5 +1,7 @@
 # PostOrca
 
+**Your content manager who reads your commits.**
+
 PostOrca is a Mac app for founders who build in public. Orca, its AI agent, learns your product and how you write, then helps you create content about what you ship and grow your audience on X.
 
 **[Download PostOrca for macOS](https://github.com/nla-asia/post-orca/releases/latest/download/PostOrca-arm64.dmg)** · [Website](https://orca.atpa.site) · [All releases](https://github.com/nla-asia/post-orca/releases)
