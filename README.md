@@ -18,7 +18,7 @@ You stay in control: you review every draft and post replies yourself.
 ## Requirements
 
 - macOS on Apple Silicon.
-- A PostOrca account. Create one in the app; new accounts start with free credits.
+- A PostOrca account. Create one in the app.
 - For browser and X features: Google Chrome with the PostOrca Browser Bridge extension.
 
 ## Install
@@ -41,4 +41,4 @@ See the [privacy policy](https://orca.atpa.site/privacy).
 
 ## Pricing
 
-Usage-based, with free credits to start. See [pricing](https://orca.atpa.site/#pricing).
+Usage-based. See [pricing](https://orca.atpa.site/#pricing).
