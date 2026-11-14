@@ -41,4 +41,4 @@ See the [privacy policy](https://orca.atpa.site/privacy).
 
 ## Pricing
 
-Usage-based. See [pricing](https://orca.atpa.site/#pricing).
+Monthly plans. See [pricing](https://orca.atpa.site/#pricing).
